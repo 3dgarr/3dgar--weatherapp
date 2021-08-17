@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/3dgar--weatherapp/static/css/main.e69e1eeb.chunk.css",
+    "main.js": "/3dgar--weatherapp/static/js/main.07e1794d.chunk.js",
+    "main.js.map": "/3dgar--weatherapp/static/js/main.07e1794d.chunk.js.map",
+    "runtime-main.js": "/3dgar--weatherapp/static/js/runtime-main.be06f210.js",
+    "runtime-main.js.map": "/3dgar--weatherapp/static/js/runtime-main.be06f210.js.map",
+    "static/js/2.f0d7caac.chunk.js": "/3dgar--weatherapp/static/js/2.f0d7caac.chunk.js",
+    "static/js/2.f0d7caac.chunk.js.map": "/3dgar--weatherapp/static/js/2.f0d7caac.chunk.js.map",
+    "static/js/3.db5480ed.chunk.js": "/3dgar--weatherapp/static/js/3.db5480ed.chunk.js",
+    "static/js/3.db5480ed.chunk.js.map": "/3dgar--weatherapp/static/js/3.db5480ed.chunk.js.map",
+    "index.html": "/3dgar--weatherapp/index.html",
+    "static/css/main.e69e1eeb.chunk.css.map": "/3dgar--weatherapp/static/css/main.e69e1eeb.chunk.css.map",
+    "static/js/2.f0d7caac.chunk.js.LICENSE.txt": "/3dgar--weatherapp/static/js/2.f0d7caac.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/3dgar--weatherapp/static/media/earth.e5568426.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be06f210.js",
+    "static/js/2.f0d7caac.chunk.js",
+    "static/css/main.e69e1eeb.chunk.css",
+    "static/js/main.07e1794d.chunk.js"
+  ]
+}
